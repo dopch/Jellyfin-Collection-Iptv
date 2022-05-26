@@ -8,13 +8,16 @@ This tool will help you create a collection containing sub-collection of iptv ch
 - [ ] [Warning] All screenshot attached to this project displaying tv channel are linked to my own local setup and official legal paid subscription.
 
 - Homepage with new iptv collection
-![Collection-screen-homepage](https://github.com/dopch/Jellyfin-Collection-Iptv/blob/master/screenshots/1-collection-jellyfin.png)
+
+![Collection-screen-homepage](https://github.com/dopch/Jellyfin-Collection-Iptv/blob/main/screenshots/1-collection-jellyfin.png)
 
 - Sub-collections in iptv collection
-![Subcollections](https://github.com/dopch/Jellyfin-Collection-Iptv/blob/master/screenshots/2-subcollection-jellyfin.png)
+
+![Subcollections](https://github.com/dopch/Jellyfin-Collection-Iptv/blob/main/screenshots/2-subcollection-jellyfin.png)
 
 - Channels display from a sub-collections
-![Channels-subcollection](https://github.com/dopch/Jellyfin-Collection-Iptv/blob/master/screenshots/3-subcollection-content-channels.png)
+
+![Channels-subcollection](https://github.com/dopch/Jellyfin-Collection-Iptv/blob/main/screenshots/3-subcollection-content-channels.png)
 
 
 
