@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Item>
+  <Added>{{datetime_str}}</Added>
+  <LockData>true</LockData>
+  <LocalTitle>{{title_str}}</LocalTitle>
+  <DisplayOrder>PremiereDate</DisplayOrder>
+  <CollectionItems>
+    {%- for item in items %}
+      <CollectionItem>
+        <ItemId>{{item}}</ItemId>
+      </CollectionItem>
+    {%- endfor %}
+  </CollectionItems>
+</Item>
