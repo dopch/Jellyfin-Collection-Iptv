@@ -78,4 +78,4 @@ https://github.com/globocom/m3u8 MIT License
 https://github.com/pallets/jinja/blob/main/LICENSE.rst BSD 3-Clause "New" or "Revised" License
 
 ## Project status
-Project is currently in beta.
+This Project will no longer receive update.
